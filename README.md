@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArjunCodes29
-- 👀 I’m interested in ... Chess, piano and coding
-- 🌱 I’m currently learning ... Basic python
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I am trying to become good at web development right now.
+- 🌱 I’m currently learning Javascript, I also want to learn  Js related things such as react and next and maybe j query. I am not sure what they are but I am going to learn them
 - 📫 How to reach me ... karjun2901@gmail.com
 
 <!---
