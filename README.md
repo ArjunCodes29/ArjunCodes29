@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArjunCodes29
-- 👀 I am trying to become good at web development right now.
-- 🌱 I’m currently learning Javascript, I also want to learn  Js related things such as react and next and maybe j query. I am not sure what they are but I am going to learn them
+- 👀 I am learning computer science and I eventually want to get into India's IOI team.
+- 🌱 I am currently learning python, and working through MIT's SICP
 - 📫 How to reach me ... karjun2901@gmail.com
 
 <!---
