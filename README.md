@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArjunCodes29
-- 👀 I am learning computer science and I eventually want to get into India's IOI team.
-- 🌱 I am currently learning python, and working through MIT's SICP
+- 👀 I am dabbling in competitive programing and I eventually want to get into UAE's IOI team.
+- 🌱 I learned python (and scheme) through Berkeleys cs61a
 - 📫 How to reach me ... karjun2901@gmail.com
 
 <!---
