@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ArjunCodes29, most of my contributions are on private repos
-- 🌱 I learned python (and scheme) through Berkeleys cs61a
+    - Thinking of chaning my username soon, I made it when I was quite young, lol
+- 🌱 I learned python (and scheme) through Berkeleys cs61a (the new version of SICP)
 
 
 <!---
